@@ -13,13 +13,13 @@ export default function Home() {
         <div className="flex flex-col items-center space-y-6 md:space-y-8">
           {/* Scrap Mechanic Chapter 2 text */}
           <div className="text-center mb-4 md:mb-6">
-            <h1 className="text-2xl md:text-5xl font-bold text-red-500 mb-2">
+            <h1 className="text-2xl md:text-5xl font-bold text-red-400 mb-2">
               SCRAP MECHANIC
             </h1>
-            <h2 className="text-3xl md:text-6xl font-bold text-red-600 mb-2 md:mb-4">
+            <h2 className="text-3xl md:text-7xl font-bold text-red-600 mb-2 md:mb-4">
               CHAPTER 2
             </h2>
-            <h3 className="text-xl md:text-2xl text-red-400">
+            <h3 className="text-2xl md:text-5xl font-bold text-red-400">
               HAS BEEN SEIZED
             </h3>
           </div>
