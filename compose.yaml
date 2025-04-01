@@ -1,0 +1,11 @@
+services:
+  scrap-mechanic-seized:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: scrap-mechanic-seized
+    restart: unless-stopped
+    ports:
+      - "8080:80"
+    volumes:
+      - ./out:/usr/share/nginx/html:ro
