@@ -25,7 +25,7 @@ export default function Home() {
           </div>
 
           {/* Seals */}
-          <div className="flex justify-center items-center gap-8 md:gap-16 my-4 md:my-8">
+          <div className="flex justify-center items-center flex-wrap gap-x-8 my-4 md:my-8">
             <div className="w-36 h-36 md:w-48 md:h-48 relative">
               <Image
                 src="/fbi-seal.png"
@@ -34,10 +34,18 @@ export default function Home() {
                 style={{ objectFit: "contain" }}
               />
             </div>
-            <div className="w-36 h-36 md:w-48 md:h-48 relative hidden md:block">
+            <div className="w-36 h-36 md:w-48 md:h-48 relative">
               <Image
-                src="/doj-seal.png"
-                alt="Department of Justice Seal"
+                src="/swedish-police.svg"
+                alt="Swedish Police"
+                fill
+                style={{ objectFit: "contain" }}
+              />
+            </div>
+            <div className="h-36 md:h-48 relative w-96">
+              <Image
+                src="/europol.svg"
+                alt="Europol"
                 fill
                 style={{ objectFit: "contain" }}
               />
@@ -47,7 +55,7 @@ export default function Home() {
           {/* Case number */}
           <div className="text-center w-full border-y border-blue-700 py-2 mb-4">
             <p className="text-yellow-400 font-mono text-sm md:text-base">
-              CASE NUMBER: GLED-04012025-SM2
+              CASE NUMBER: GLOB-04012025-SM2
             </p>
           </div>
 
