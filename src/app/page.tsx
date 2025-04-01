@@ -61,26 +61,29 @@ export default function Home() {
 
           {/* Seizure text */}
           <div className="text-center max-w-3xl text-gray-200">
-            <p className="mb-4 md:mb-6 text-base md:text-lg">
-              The domain <span className="font-mono text-yellow-400">scrapmechanic.com/chapter2</span> has been seized by the Gaming Law Enforcement Division
+            <p className="mb-4 md:mb-6 text-base md:text-lg text-balance">
+              The domain <span className="font-mono text-yellow-400">scrapmechanic.net/chapter-2</span> has been seized by the Gaming Law Enforcement Division
               in accordance with a seizure warrant issued pursuant to Title 18 U.S.C. § 1343 (Wire Fraud)
               by the United States District Court for the Northern District of Gaming.
             </p>
 
-            <p className="mb-4 md:mb-6 text-sm md:text-base">
+            <p className="mb-4 md:mb-6 text-sm md:text-base text-balance">
               This seizure was executed as part of an ongoing investigation into numerous violations of United States law related to the following:
             </p>
 
             <ul className="list-disc list-inside mb-4 md:mb-6 text-left space-y-1 md:space-y-2 text-sm md:text-base">
               <li>Excessive delayed development (4+ years)</li>
+              <li>Failure to publish devblogs (over 2 years since last update)</li>
               <li>False promises of "coming soon" ™</li>
-              <li>Unreasonable gameplay teases</li>
+              <li>What happened to the scrapyard??</li>
+              <li>YEARS OF PUTTING TWO TOILET PAPER ROLLS ON TOP OF EACH OTHER yet NO REAL-WORLD USE FOUND for PAPER TOWEL ROLLS</li>
               <li>Causing distress to the player community</li>
               <li>Unlawful withholding of game content</li>
-              <li>Failure to meet self-imposed release deadlines</li>
               <li>Excessive reuse of "we're working on it" excuses</li>
+              <li>Failure to publish .pdb files, holding back mod developers</li>
               <li className="text-yellow-300 font-semibold">UNAUTHORIZED FARMING DETECTED</li>
-              <li>Failure to publish devblogs (over 2 years since last update)</li>
+              <li>Failure to meet self-imposed release deadlines</li>
+              <li>Not responding to vulnerability disclosures</li>
             </ul>
 
             <div className="border border-red-800 bg-red-950/30 p-3 md:p-4 rounded-md mt-3 md:mt-4 mb-4 md:mb-6">
@@ -95,12 +98,13 @@ export default function Home() {
 
             <div className="border border-yellow-800 bg-yellow-950/30 p-3 md:p-4 rounded-md mt-6 md:mt-8 mb-4 md:mb-6">
               <h4 className="font-bold text-yellow-400 mb-2 text-left text-sm md:text-base">NOTICE TO GAMING COMMUNITY</h4>
-              <p className="text-xs md:text-sm text-left">
-                The unauthorized delay of highly anticipated game content is a serious crime that
-                carries penalties including reduced Metacritic scores, negative Steam reviews, and in extreme cases,
-                the revocation of "Indie Darling" status. Intelligence gathered indicates that Scrap Mechanic
-                Chapter 2 may continue to be withheld from the general public for an undetermined amount of time.
-              </p>
+                <p className="text-xs md:text-sm text-left">
+                The prolonged abuse of early access status is now classified as a <span className="text-yellow-300 font-semibold">LEVEL 5 GAMING FELONY</span>. 
+                Scrap Mechanic Chapter 2's development timeline has officially entered the "Valve Time" zone, where deadlines are myths, 
+                and updates are as rare as a <span className="text-yellow-300 font-semibold">golden component kit</span>. Authorities warn that such practices 
+                may result in severe penalties, including <span className="text-red-400 font-bold">community rage-quits</span>, 
+                <span className="text-red-400 font-bold">meme sanctions</span>, and <span className="text-red-400 font-bold">permanent loss of gamer street cred</span>.
+                </p>
               <p className="text-xs md:text-sm text-left mt-2">
                 Law enforcement received multiple reports of <span className="text-yellow-300 font-semibold">UNAUTHORIZED FARMING</span>,
                 triggering large-scale raids by farmbots, haybots, and totebots. This constitutes a severe violation of agricultural regulations.
@@ -108,8 +112,8 @@ export default function Home() {
             </div>
 
             <p className="text-xs md:text-sm mt-6 md:mt-8 text-gray-400">
-              This is an <span className="text-red-400 font-bold">APRIL FOOLS</span> joke. The real Chapter 2 is
-              still under development by Axolot Games. Patience is a virtue.
+              This is an <span className="">APRIL FOOLS</span> joke. The real Chapter 2 is
+              still under development by Axolot Games :clueless:.
             </p>
           </div>
         </div>
