@@ -74,7 +74,7 @@ export default function Home() {
             <ul className="list-disc list-inside mb-4 md:mb-6 text-left space-y-1 md:space-y-2 text-sm md:text-base">
               <li>Excessive delayed development (4+ years)</li>
               <li>Failure to publish devblogs (over 2 years since last update)</li>
-              <li>False promises of "coming soon" ™</li>
+              <li>False promises of "coming soon"™</li>
               <li>What happened to the scrapyard??</li>
               <li>YEARS OF PUTTING TWO TOILET PAPER ROLLS ON TOP OF EACH OTHER yet NO REAL-WORLD USE FOUND for PAPER TOWEL ROLLS</li>
               <li>Causing distress to the player community</li>
@@ -103,7 +103,7 @@ export default function Home() {
                 Scrap Mechanic Chapter 2's development timeline has officially entered the "Valve Time" zone, where deadlines are myths, 
                 and updates are as rare as a <span className="text-yellow-300 font-semibold">golden component kit</span>. Authorities warn that such practices 
                 may result in severe penalties, including <span className="text-red-400 font-bold">community rage-quits</span>, 
-                <span className="text-red-400 font-bold">meme sanctions</span>, and <span className="text-red-400 font-bold">permanent loss of gamer street cred</span>.
+                <span className="text-red-400 font-bold"> meme sanctions</span>, and <span className="text-red-400 font-bold">permanent loss of gamer street cred</span>.
                 </p>
               <p className="text-xs md:text-sm text-left mt-2">
                 Law enforcement received multiple reports of <span className="text-yellow-300 font-semibold">UNAUTHORIZED FARMING</span>,
