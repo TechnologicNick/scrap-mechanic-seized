@@ -17,7 +17,7 @@ export const metadata: Metadata = {
     countryName: "United States",
     images: [
       {
-        url: "http://81.172.212.158:25565/scrap-mechanic-seized.jpg",
+        url: "https://scrapmechanic.net/scrap-mechanic-seized.jpg",
         width: 1200,
         height: 630,
         alt: "SEIZED - Scrap Mechanic Chapter 2",
